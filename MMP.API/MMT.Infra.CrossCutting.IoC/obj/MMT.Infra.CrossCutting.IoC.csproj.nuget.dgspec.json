@@ -1,0 +1,586 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Infra.CrossCutting.IoC\\MMT.Infra.CrossCutting.IoC.csproj": {}
+  },
+  "projects": {
+    "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Domain.Core\\MMT.Domain.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Domain.Core\\MMT.Domain.Core.csproj",
+        "projectName": "MMT.Domain.Core",
+        "projectPath": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Domain.Core\\MMT.Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\shlot\\.nuget\\packages\\",
+        "outputPath": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Domain.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shlot\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.13.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
+            "Serilog.Sinks.RollingFile": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Domain\\MMT.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Domain\\MMT.Domain.csproj",
+        "projectName": "MMT.Domain",
+        "projectPath": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Domain\\MMT.Domain.csproj",
+        "packagesPath": "C:\\Users\\shlot\\.nuget\\packages\\",
+        "outputPath": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shlot\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Domain.Core\\MMT.Domain.Core.csproj": {
+                "projectPath": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Domain.Core\\MMT.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.13.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Logging.Console": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
+            "Serilog.Sinks.RollingFile": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Infra.CrossCutting.Bus\\MMT.Infra.CrossCutting.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Infra.CrossCutting.Bus\\MMT.Infra.CrossCutting.Bus.csproj",
+        "projectName": "MMT.Infra.CrossCutting.Bus",
+        "projectPath": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Infra.CrossCutting.Bus\\MMT.Infra.CrossCutting.Bus.csproj",
+        "packagesPath": "C:\\Users\\shlot\\.nuget\\packages\\",
+        "outputPath": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Infra.CrossCutting.Bus\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shlot\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Domain.Core\\MMT.Domain.Core.csproj": {
+                "projectPath": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Domain.Core\\MMT.Domain.Core.csproj"
+              },
+              "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Domain\\MMT.Domain.csproj": {
+                "projectPath": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Domain\\MMT.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.13.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
+            "Serilog.Sinks.RollingFile": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Infra.CrossCutting.IoC\\MMT.Infra.CrossCutting.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Infra.CrossCutting.IoC\\MMT.Infra.CrossCutting.IoC.csproj",
+        "projectName": "MMT.Infra.CrossCutting.IoC",
+        "projectPath": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Infra.CrossCutting.IoC\\MMT.Infra.CrossCutting.IoC.csproj",
+        "packagesPath": "C:\\Users\\shlot\\.nuget\\packages\\",
+        "outputPath": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Infra.CrossCutting.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shlot\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Domain\\MMT.Domain.csproj": {
+                "projectPath": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Domain\\MMT.Domain.csproj"
+              },
+              "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Infra.CrossCutting.Bus\\MMT.Infra.CrossCutting.Bus.csproj": {
+                "projectPath": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Infra.CrossCutting.Bus\\MMT.Infra.CrossCutting.Bus.csproj"
+              },
+              "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Infra.Data\\MMT.Infra.Data.csproj": {
+                "projectPath": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Infra.Data\\MMT.Infra.Data.csproj"
+              },
+              "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Service\\MMT.Service.csproj": {
+                "projectPath": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Service\\MMT.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.13.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
+            "Serilog.Sinks.RollingFile": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Infra.Data\\MMT.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Infra.Data\\MMT.Infra.Data.csproj",
+        "projectName": "MMT.Infra.Data",
+        "projectPath": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Infra.Data\\MMT.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\shlot\\.nuget\\packages\\",
+        "outputPath": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shlot\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Domain\\MMT.Domain.csproj": {
+                "projectPath": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Domain\\MMT.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.ApplicationInsights.AspNetCore": {
+              "target": "Package",
+              "version": "[2.13.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[2.5.0, )"
+            },
+            "Serilog.Sinks.RollingFile": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Service\\MMT.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Service\\MMT.Service.csproj",
+        "projectName": "MMT.Service",
+        "projectPath": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Service\\MMT.Service.csproj",
+        "packagesPath": "C:\\Users\\shlot\\.nuget\\packages\\",
+        "outputPath": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\shlot\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Domain\\MMT.Domain.csproj": {
+                "projectPath": "C:\\Trendy Dialog\\Work Backup\\Eniya Project\\PPECB Arc\\MMP.API\\MMT.Domain\\MMT.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

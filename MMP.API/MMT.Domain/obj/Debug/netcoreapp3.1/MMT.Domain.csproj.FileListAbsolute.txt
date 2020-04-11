@@ -1,0 +1,33 @@
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Domain\bin\Debug\netcoreapp3.1\MMT.Domain.deps.json
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Domain\bin\Debug\netcoreapp3.1\MMT.Domain.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Domain\bin\Debug\netcoreapp3.1\MMT.Domain.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Domain\bin\Debug\netcoreapp3.1\MMT.Domain.Core.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Domain\bin\Debug\netcoreapp3.1\MMT.Domain.Core.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Domain\obj\Debug\netcoreapp3.1\MMT.Domain.csprojAssemblyReference.cache
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Domain\obj\Debug\netcoreapp3.1\MMT.Domain.AssemblyInfoInputs.cache
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Domain\obj\Debug\netcoreapp3.1\MMT.Domain.AssemblyInfo.cs
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Domain\obj\Debug\netcoreapp3.1\MMT.Domain.csproj.CopyComplete
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Domain\obj\Debug\netcoreapp3.1\MMT.Domain.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Domain\obj\Debug\netcoreapp3.1\MMT.Domain.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\bin\Debug\netcoreapp3.1\MMT.Domain.deps.json
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\bin\Debug\netcoreapp3.1\MMT.Domain.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\bin\Debug\netcoreapp3.1\MMT.Domain.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\bin\Debug\netcoreapp3.1\MMT.Domain.Core.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\bin\Debug\netcoreapp3.1\MMT.Domain.Core.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\obj\Debug\netcoreapp3.1\MMT.Domain.csprojAssemblyReference.cache
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\obj\Debug\netcoreapp3.1\MMT.Domain.AssemblyInfoInputs.cache
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\obj\Debug\netcoreapp3.1\MMT.Domain.AssemblyInfo.cs
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\obj\Debug\netcoreapp3.1\MMT.Domain.csproj.CopyComplete
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\obj\Debug\netcoreapp3.1\MMT.Domain.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\obj\Debug\netcoreapp3.1\MMT.Domain.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\bin\Debug\netcoreapp3.1\MMT.Domain.deps.json
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\bin\Debug\netcoreapp3.1\MMT.Domain.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\bin\Debug\netcoreapp3.1\MMT.Domain.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\bin\Debug\netcoreapp3.1\MMT.Domain.Core.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\bin\Debug\netcoreapp3.1\MMT.Domain.Core.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\obj\Debug\netcoreapp3.1\MMT.Domain.csprojAssemblyReference.cache
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\obj\Debug\netcoreapp3.1\MMT.Domain.AssemblyInfoInputs.cache
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\obj\Debug\netcoreapp3.1\MMT.Domain.AssemblyInfo.cs
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\obj\Debug\netcoreapp3.1\MMT.Domain.csproj.CopyComplete
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\obj\Debug\netcoreapp3.1\MMT.Domain.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Domain\obj\Debug\netcoreapp3.1\MMT.Domain.pdb

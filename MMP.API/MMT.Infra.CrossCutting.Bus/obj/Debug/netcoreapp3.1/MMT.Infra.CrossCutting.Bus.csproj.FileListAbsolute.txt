@@ -1,0 +1,39 @@
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.deps.json
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\MMT.Domain.Core.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\MMT.Domain.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\MMT.Domain.Core.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\MMT.Domain.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.csprojAssemblyReference.cache
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.AssemblyInfo.cs
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.csproj.CopyComplete
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.deps.json
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\MMT.Domain.Core.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\MMT.Domain.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\MMT.Domain.Core.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\MMT.Domain.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.csprojAssemblyReference.cache
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.AssemblyInfo.cs
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.csproj.CopyComplete
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.deps.json
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\MMT.Domain.Core.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\MMT.Domain.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\MMT.Domain.Core.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\bin\Debug\netcoreapp3.1\MMT.Domain.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.csprojAssemblyReference.cache
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.AssemblyInfo.cs
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.csproj.CopyComplete
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.Bus\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.pdb

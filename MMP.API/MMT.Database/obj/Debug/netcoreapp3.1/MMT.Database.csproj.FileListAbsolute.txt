@@ -1,0 +1,23 @@
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Database\bin\Debug\netcoreapp3.1\MMT.Database.deps.json
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Database\bin\Debug\netcoreapp3.1\MMT.Database.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Database\bin\Debug\netcoreapp3.1\MMT.Database.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Database\obj\Debug\netcoreapp3.1\MMT.Database.AssemblyInfoInputs.cache
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Database\obj\Debug\netcoreapp3.1\MMT.Database.AssemblyInfo.cs
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Database\obj\Debug\netcoreapp3.1\MMT.Database.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Database\obj\Debug\netcoreapp3.1\MMT.Database.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Database\obj\Debug\netcoreapp3.1\MMT.Database.csprojAssemblyReference.cache
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Database\bin\Debug\netcoreapp3.1\MMT.Database.deps.json
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Database\bin\Debug\netcoreapp3.1\MMT.Database.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Database\bin\Debug\netcoreapp3.1\MMT.Database.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Database\obj\Debug\netcoreapp3.1\MMT.Database.AssemblyInfoInputs.cache
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Database\obj\Debug\netcoreapp3.1\MMT.Database.AssemblyInfo.cs
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Database\obj\Debug\netcoreapp3.1\MMT.Database.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Database\obj\Debug\netcoreapp3.1\MMT.Database.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Database\bin\Debug\netcoreapp3.1\MMT.Database.deps.json
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Database\bin\Debug\netcoreapp3.1\MMT.Database.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Database\bin\Debug\netcoreapp3.1\MMT.Database.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Database\obj\Debug\netcoreapp3.1\MMT.Database.AssemblyInfoInputs.cache
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Database\obj\Debug\netcoreapp3.1\MMT.Database.AssemblyInfo.cs
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Database\obj\Debug\netcoreapp3.1\MMT.Database.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Database\obj\Debug\netcoreapp3.1\MMT.Database.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Database\obj\Debug\netcoreapp3.1\MMT.Database.csprojAssemblyReference.cache

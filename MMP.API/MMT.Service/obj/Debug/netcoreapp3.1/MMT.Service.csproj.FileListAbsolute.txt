@@ -1,0 +1,39 @@
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Service.deps.json
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Service.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Service.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Domain.Core.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Domain.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Domain.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Domain.Core.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.csprojAssemblyReference.cache
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.AssemblyInfoInputs.cache
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.AssemblyInfo.cs
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.csproj.CopyComplete
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Service.deps.json
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Service.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Service.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Domain.Core.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Domain.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Domain.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Domain.Core.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.csprojAssemblyReference.cache
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.AssemblyInfoInputs.cache
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.AssemblyInfo.cs
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.csproj.CopyComplete
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Service.deps.json
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Service.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Service.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Domain.Core.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Domain.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Domain.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Service\bin\Debug\netcoreapp3.1\MMT.Domain.Core.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.csprojAssemblyReference.cache
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.AssemblyInfoInputs.cache
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.AssemblyInfo.cs
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.csproj.CopyComplete
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Service\obj\Debug\netcoreapp3.1\MMT.Service.pdb

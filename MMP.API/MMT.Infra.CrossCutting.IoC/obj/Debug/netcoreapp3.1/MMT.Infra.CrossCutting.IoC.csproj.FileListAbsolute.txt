@@ -1,0 +1,57 @@
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.deps.json
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Domain.Core.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Domain.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Infra.Data.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Service.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Domain.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Infra.Data.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Service.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Domain.Core.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.deps.json
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Domain.Core.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Domain.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Infra.Data.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Service.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Domain.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Infra.Data.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Service.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Domain.Core.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.AssemblyInfo.cs
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.csproj.CopyComplete
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.deps.json
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Domain.Core.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Domain.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Infra.Data.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Service.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Domain.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Infra.Data.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Service.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\bin\Debug\netcoreapp3.1\MMT.Domain.Core.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.csprojAssemblyReference.cache
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.AssemblyInfoInputs.cache
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.AssemblyInfo.cs
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.csproj.CopyComplete
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.Infra.CrossCutting.IoC\obj\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.pdb

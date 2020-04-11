@@ -1,0 +1,64 @@
+﻿@model MMT.UI.Site.Areas.CellManagement.Models.CellTabViewModel
+@addTagHelper *, WebApp
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/Admin/Views/Shared/AdminLayout.cshtml";
+}
+
+<!--Boostsrap 4.0.0-->
+<link rel="stylesheet" href="~/dist/bootstrap-3.3.7-dist/css/bootstrap-theme.min.css">
+<link rel="stylesheet" href="~/dist/bootstrap-3.3.7-dist/css/bootstrap.min.css">
+
+<style>
+    .nav-tabs>li {
+        float: left;
+        margin-bottom: -1px;
+        padding:0px;
+    }
+
+    .nav-tabs>li>a {
+        margin:0px;
+    }
+</style>
+
+<div class="container-fluid">    
+    <h2>Cells Information</h2>
+    <ul class="nav nav-tabs">
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab11 ? "active" : string.Empty);"><a asp-route-tabname="11" asp-action="SwitchTabs">11</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab12 ? "active" : string.Empty);"><a asp-route-tabname="12" asp-action="SwitchTabs">12</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab13 ? "active" : string.Empty)"><a asp-route-tabname="13" asp-action="SwitchTabs">13</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab14 ? "active" : string.Empty)"><a asp-route-tabname="14" asp-action="SwitchTabs">14</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab15 ? "active" : string.Empty)"><a asp-route-tabname="15" asp-action="SwitchTabs">15</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab16 ? "active" : string.Empty)"><a asp-route-tabname="16" asp-action="SwitchTabs">16</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab17 ? "active" : string.Empty)"><a asp-route-tabname="17" asp-action="SwitchTabs">17</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab21 ? "active" : string.Empty)"><a asp-route-tabname="21" asp-action="SwitchTabs">21</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab22 ? "active" : string.Empty)"><a asp-route-tabname="22" asp-action="SwitchTabs">22</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab23 ? "active" : string.Empty)"><a asp-route-tabname="23" asp-action="SwitchTabs">23</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab24 ? "active" : string.Empty)"><a asp-route-tabname="24" asp-action="SwitchTabs">24</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab25 ? "active" : string.Empty)"><a asp-route-tabname="25" asp-action="SwitchTabs">25</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab26 ? "active" : string.Empty)"><a asp-route-tabname="26" asp-action="SwitchTabs">26</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab27 ? "active" : string.Empty)"><a asp-route-tabname="27" asp-action="SwitchTabs">27</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab31 ? "active" : string.Empty)"><a asp-route-tabname="31" asp-action="SwitchTabs">31</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab32 ? "active" : string.Empty)"><a asp-route-tabname="32" asp-action="SwitchTabs">32</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab33 ? "active" : string.Empty)"><a asp-route-tabname="33" asp-action="SwitchTabs">33</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab34 ? "active" : string.Empty)"><a asp-route-tabname="34" asp-action="SwitchTabs">34</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab35 ? "active" : string.Empty)"><a asp-route-tabname="35" asp-action="SwitchTabs">35</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab36 ? "active" : string.Empty)"><a asp-route-tabname="36" asp-action="SwitchTabs">36</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab37 ? "active" : string.Empty)"><a asp-route-tabname="37" asp-action="SwitchTabs">37</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab41 ? "active" : string.Empty)"><a asp-route-tabname="41" asp-action="SwitchTabs">41</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab42 ? "active" : string.Empty)"><a asp-route-tabname="42" asp-action="SwitchTabs">42</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab43 ? "active" : string.Empty)"><a asp-route-tabname="43" asp-action="SwitchTabs">43</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab44 ? "active" : string.Empty)"><a asp-route-tabname="44" asp-action="SwitchTabs">44</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab45 ? "active" : string.Empty)"><a asp-route-tabname="45" asp-action="SwitchTabs">45</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab46 ? "active" : string.Empty)"><a asp-route-tabname="46" asp-action="SwitchTabs">46</a></li>
+        <li role="presentation" class="@(Model.ActiveTab == MMT.UI.Site.Areas.CellManagement.Models.Tab.Tab47 ? "active" : string.Empty)"><a asp-route-tabname="47" asp-action="SwitchTabs">47</a></li>
+    </ul>
+
+    <div class="alert alert-primary" style="overflow-x:auto;">
+        @await Component.InvokeAsync("CellData", new { tabName = Model.ActiveTab.ToString().Substring(3) })
+    </div>
+</div>
+
+<!--Bootstrap 4.0.0-->
+<script src="~/dist/bootstrap-3.3.7-dist/js/bootstrap.min.js"></script>
+

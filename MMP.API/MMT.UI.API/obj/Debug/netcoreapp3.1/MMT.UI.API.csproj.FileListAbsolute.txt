@@ -1,0 +1,475 @@
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.csprojAssemblyReference.cache
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.UI.API.exe
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.UI.API.deps.json
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.UI.API.runtimeconfig.json
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.UI.API.runtimeconfig.dev.json
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.UI.API.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.UI.API.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Domain.Core.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Domain.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Infra.Data.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Service.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Domain.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Domain.Core.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Infra.Data.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Service.pdb
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\staticwebassets\MMT.UI.API.StaticWebAssets.Manifest.cache
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\staticwebassets\MMT.UI.API.StaticWebAssets.xml
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.AssemblyInfoInputs.cache
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.AssemblyInfo.cs
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.RazorTargetAssemblyInfo.cache
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.csproj.CopyComplete
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.dll
+C:\Users\SiyabongaH\Source\Repos\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.UI.API.exe
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.UI.API.deps.json
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.UI.API.runtimeconfig.json
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.UI.API.runtimeconfig.dev.json
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.UI.API.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.UI.API.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Serilog.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Domain.Core.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Domain.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Infra.Data.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Service.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Domain.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Domain.Core.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Infra.Data.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Service.pdb
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.csprojAssemblyReference.cache
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\staticwebassets\MMT.UI.API.StaticWebAssets.Manifest.cache
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\staticwebassets\MMT.UI.API.StaticWebAssets.xml
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.MvcApplicationPartsAssemblyInfo.cache
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.AssemblyInfoInputs.cache
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.AssemblyInfo.cs
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.RazorTargetAssemblyInfo.cache
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.csproj.CopyComplete
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.dll
+E:\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.UI.API.exe
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.UI.API.deps.json
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.UI.API.runtimeconfig.json
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.UI.API.runtimeconfig.dev.json
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.UI.API.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.UI.API.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.ApplicationInsights.AspNetCore.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.AI.DependencyCollector.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.AI.EventCounterCollector.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.AI.PerfCounterCollector.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.AI.WindowsServer.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.ApplicationInsights.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Serilog.Sinks.RollingFile.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard1.3\System.Data.SqlClient.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Domain.Core.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Domain.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Infra.Data.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Service.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.Bus.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Infra.CrossCutting.IoC.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Domain.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Domain.Core.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Infra.Data.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\MMT.Service.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.csprojAssemblyReference.cache
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\staticwebassets\MMT.UI.API.StaticWebAssets.Manifest.cache
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\staticwebassets\MMT.UI.API.StaticWebAssets.xml
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.AssemblyInfoInputs.cache
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.AssemblyInfo.cs
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.RazorTargetAssemblyInfo.cache
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.csproj.CopyComplete
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.pdb
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Json.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\EasyParse.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Trendy Dialog\Work Backup\Eniya Project\PPECB Arc\MMP.API\MMT.UI.API\obj\Debug\netcoreapp3.1\MMT.UI.API.MvcApplicationPartsAssemblyInfo.cache
